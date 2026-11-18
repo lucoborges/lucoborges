@@ -1,25 +1,35 @@
-<h1 align="center">Olá, sou Lucas Costa Borges 👋</h1>
+<h1 align="center">Lucas Costa Borges</h1>
 
 <p align="center">
-  <b>Desenvolvedor .NET especialista em automação de processos e integração de sistemas</b>
+  <b>Desenvolvedor .NET · Automação de Processos · Integração de Sistemas</b>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Automa%C3%A7%C3%A3o%20com%20.NET%208%20%2B%20Playwright;Integra%C3%A7%C3%A3o%20com%20SAP%20Ariba%20e%20SRM;APIs%20e%20Roteamento%20de%20Requisi%C3%A7%C3%B5es;Sempre%20aprendendo%20algo%20novo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Automa%C3%A7%C3%A3o%20com%20.NET%208%20%2B%20Playwright;Integra%C3%A7%C3%A3o%20com%20SAP%20Ariba%20e%20SRM;APIs%20e%20Roteamento%20de%20Requisi%C3%A7%C3%B5es;Sempre%20aprendendo%20algo%20novo" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <i>Transformo tarefas repetitivas em robôs confiáveis, que trabalham sozinhos e avisam quando algo precisa de atenção.</i>
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
-- 🔭 Trabalho com **automação de processos** usando .NET 8 e Playwright
-- ⚙️ Especializado em integrações com **SAP Ariba**, **ComprasGOV** e **HSE Sistemas**
-- 🤖 Construo robôs que monitoram portais e avisam por e-mail automaticamente
-- 📍 Brasil
+Sou desenvolvedor focado em **automação de processos com C# e .NET 8**. Meu trabalho é pegar rotinas manuais, como acompanhar cotações em portais, pesquisar licitações e cadastrar produtos em sistemas de gestão, e transformá-las em soluções que rodam sozinhas, com menos erros e muito menos tempo gasto.
+
+Uso principalmente **Playwright** para automação web, integrando portais como **SAP Ariba**, **SRM**, **Compras.gov.br / PNCP** e **HSE Sistemas**, além de APIs para conectar sistemas entre si.
+
+**No que eu foco:**
+
+- **Automação web:** robôs que navegam, extraem dados e preenchem sistemas de forma confiável
+- **Monitoramento e alertas:** acompanhamento de cotações e licitações com aviso automático por e-mail
+- **Integração de sistemas:** APIs e roteamento de requisições entre aplicações
+- **Dados organizados:** informações coletadas registradas direto em planilhas, prontas para uso
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -32,7 +42,7 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 | Projeto | Descrição | Tech |
 |---------|-----------|------|
@@ -44,7 +54,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=lucoborges&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -53,10 +63,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucoborges&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-  <i>⭐ Se algum projeto te ajudou, deixa uma estrela!</i>
 </p>
