@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Automação+com+.NET+8+%2B+Playwright;Integração+com+SAP+Ariba+e+SRM;APIs+e+Roteamento+de+Requisições;Sempre+aprendendo+algo+novo+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Automa%C3%A7%C3%A3o%20com%20.NET%208%20%2B%20Playwright;Integra%C3%A7%C3%A3o%20com%20SAP%20Ariba%20e%20SRM;APIs%20e%20Roteamento%20de%20Requisi%C3%A7%C3%B5es;Sempre%20aprendendo%20algo%20novo" alt="Typing SVG" />
 </p>
 
 ---
